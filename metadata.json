@@ -1,0 +1,6 @@
+{
+  "name": "QuantBacktest Pro - Algorithmic Strategy Simulator",
+  "description": "Institutional-grade 30-year historical backtesting platform with customizable risk management, real-time data integration, and in-browser Python indicator scripting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
